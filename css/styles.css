@@ -7,8 +7,15 @@ img{
 }
 div {
     text-align: center;
-    border: 10px;
-
+}
+#title {
+     background-color: blue;
+}
+#bio {
+    background-color: aqua;
+}
+#nickname {
+    background-color: aqua;
 }
 h1 {
     text-align: center;
