@@ -1,5 +1,5 @@
-.bio {
-    text-align: center;
+html {
+    background-color: royalblue;
 }
 img{
     max-width: 200px;
@@ -8,14 +8,15 @@ img{
 div {
     text-align: center;
 }
-#title {
-     background-color: blue;
-}
+
 #bio {
-    background-color: aqua;
+    background-color: grey;
 }
 #nickname {
-    background-color: aqua;
+    background-color: grey;
+}
+#Project_links {
+    background-color: grey;
 }
 h1 {
     text-align: center;
