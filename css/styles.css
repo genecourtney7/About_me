@@ -2,6 +2,9 @@ html {
     background-color:silver;
 }
 img{
+    border-color: black;
+    border-style: outset;
+    border-width: 5px;
     max-width: 200px;
     max-height: 200px;
 }
@@ -13,12 +16,18 @@ div {
     margin: 10px;
 }
 #bio {
+    border-color: black;
+    border-width: 5px;
+    border-style: outset;
     width: 10%;
     background-color: grey;
     padding: 5px;
     float: right;
 }
 #Project_links {
+    border-color: black;
+    border-width: 5px;
+    border-style: outset;
     width: 10%;
     background-color: grey;
     padding: 5px;
