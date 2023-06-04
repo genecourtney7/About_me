@@ -1,5 +1,5 @@
 html {
-    background-color: royalblue;
+    background-color:silver;
 }
 img{
     max-width: 200px;
@@ -8,15 +8,25 @@ img{
 div {
     text-align: center;
 }
-
-#bio {
-    background-color: grey;
+.history {
+    width: 45%;
+    margin: 10px;
 }
-#nickname {
+#bio {
+    width: 10%;
     background-color: grey;
+    padding: 5px;
+    float: right;
 }
 #Project_links {
+    width: 10%;
     background-color: grey;
+    padding: 5px;
+}
+#back {
+    border-width: 5px;
+    border-style: outset;
+    border-color: black;
 }
 h1 {
     text-align: center;
