@@ -8,6 +8,10 @@ https://github.com/genecourtney7/About_me.git
 *_vs code terminal_
 ## Description
 _Standard html page with a picture and links._
+##Setup/Installation Requirements
+*Clone this repository to your desktop.
+*click the url and open with compatible browser. 
 ## Known Bugs
 * boxes stuck to the left
-## copyright 6-3-23 author: Mark Courtney
+## licence 
+*copyright 6-3-23 author: Mark Courtney
