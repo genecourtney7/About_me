@@ -9,6 +9,7 @@ https://github.com/genecourtney7/About_me.git
 ## Description
 _Standard html page with a picture and links._
 ##Setup/Installation Requirements
+*Clone this repository to your desktop.
 *click the url and open with compatible browser. 
 ## Known Bugs
 * boxes stuck to the left
